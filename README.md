@@ -8,7 +8,7 @@ Nodejs/ExpressJs, Reactjs, Mongodb, MaterialUi, Redux/React-redux
 
 # demo
 
-https://seekers-of-the-truth.herokuapp.com
+https://truth-seekers-app.herokuapp.com
 
 # screenshots
 
